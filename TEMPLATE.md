@@ -8,6 +8,7 @@ Using the iOS software and hardware environment for audio creativity.
 - How might we use iOS tools we currently have to create a budget and mobile studio?
 - How can we use iOS apps to represent our voices and the sounds of our communities?
 - How might we use iOS tools to teach ourselves how to make music?
+- How can we activiate iOS tools to help us tell stories with our own audio creations?
 
 ## Introduction
 Please provide a narrative of what the unit is about, and why we should learn it that is simple enough that a student could read and understand. Example: "In this workship we will be using ... to explore ... so that you have a better understanding of how ..."
