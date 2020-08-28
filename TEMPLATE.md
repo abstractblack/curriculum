@@ -9,7 +9,7 @@ This template is based off of NYC Department of Education's CS4All Blueprint to 
 ## Class Title
 
 ## Authors
-Your name (please include collaborators or funding institutions that have supported this work) and links to your site or Github.
+Jayve Montgomery and links to your site or Github.
 
 ## Essential Questions
 Questions that lead to meaningful exploration of CS concepts and practices. Examples:
