@@ -5,8 +5,8 @@
 
 ## Description / Essential Questions
 Using the iOS software and hardware environment for audio creativity.
-- How can we use iOS apps to represent our voices and the sounds of our communities?
 - How might we use iOS tools we currently have to create a budget and mobile studio?
+- How can we use iOS apps to represent our voices and the sounds of our communities?
 - How might we use iOS tools to teach ourselves how to make music?
 
 ## Introduction
