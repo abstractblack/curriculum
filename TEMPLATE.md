@@ -3,12 +3,11 @@
 ## by
 [Jayve Montgomery](http://jayvemontgomery.com)
 
-## Essential Questions
-Questions that lead to meaningful exploration of CS concepts and practices. Examples:
-- How can programming represent your ideas and beliefs?
-- How might we use math to express ourselves creatively?
-- How might we use computing to impact our community?
-- What information is my computer sharing about me or my online activity?
+## Description / Essential Questions
+Using the iOS software and hardware environment for audio creativity.
+- How can we use iOS apps to represent our voices and the sounds of our communities?
+- How might we use iOS tools we currently have to create a budget and mobile studio?
+- How might we use iOS tools to teach ourselves how to make music?
 
 ## Introduction
 Please provide a narrative of what the unit is about, and why we should learn it that is simple enough that a student could read and understand. Example: "In this workship we will be using ... to explore ... so that you have a better understanding of how ..."
