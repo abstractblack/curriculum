@@ -1,15 +1,7 @@
-# About Our Template
+## iOS Audio Creativity
 
-Eyebeam's educational focus is to promote artist-led, STEAM based education. This template is intended for our teaching artists to document their lessons with a larger goal for their curriculum to be referenced or used more easily in classrooms, libraries, after school programs or anywhere STEAM programming can be offered. 
-
-This template is based off of NYC Department of Education's CS4All Blueprint to teach creative computing. For more information on the core components they advise teachers and classes focus on, and to give the students the competency to be better prepared to engage with more difficult STEM lessons, I highly encourage you to read about [their approach here](https://blueprint.cs4all.nyc/what-is-cs/).
-
-# TEMPLATE BELOW
-
-## Class Title
-
-## Authors
-Your name (please include collaborators or funding institutions that have supported this work) and links to your site or Github.
+## by
+Jayve Montgomery [Jayve Montgomery](http://jayvemontgomery.com)
 
 ## Essential Questions
 Questions that lead to meaningful exploration of CS concepts and practices. Examples:
