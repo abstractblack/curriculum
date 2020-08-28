@@ -1,7 +1,7 @@
 ## iOS Audio Creativity
 
 ## by
-Jayve Montgomery [Jayve Montgomery](http://jayvemontgomery.com)
+[Jayve Montgomery](http://jayvemontgomery.com)
 
 ## Essential Questions
 Questions that lead to meaningful exploration of CS concepts and practices. Examples:
